@@ -8,7 +8,7 @@ This widget demonstrates a creative UI effect where a gradient border (transitio
 
 ## Example
 
-(button.gif)
+![](button.gif)
 
 ## Features
 

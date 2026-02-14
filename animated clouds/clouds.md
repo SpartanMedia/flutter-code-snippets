@@ -59,7 +59,7 @@ class MyApp extends StatelessWidget {
 
 ## Example
 
-(clouds.gif)
+![](clouds.gif)
 
 ## How It Works
 
